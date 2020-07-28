@@ -1,13 +1,13 @@
-# cofigure the aws provider
+# Cofigure the aws provider
 
 provider "aws" {
     #version = "~> 2.0"
     region = "us-east-1"
-    access_key = "AKIAZJXY53R3VLHCKCZ7"
-    secret_key = "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"
+    access_key = "AKIAZJXY53R3V"
+    secret_key = "S0l8kpZE2nbC7ytwbLuie38iE+4N5"
 }
 
-# create a instance
+## create a instance
 
 # resource "aws_instance" "amazon" {
 #   ami           = "ami-08f3d892de259504d"
