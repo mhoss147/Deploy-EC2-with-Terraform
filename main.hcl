@@ -3,8 +3,8 @@
 provider "aws" {
     #version = "~> 2.0"
     region = "us-east-1"
-    access_key = "AKIAZJXY53R3V"
-    secret_key = "S0l8kpZE2nbC7ytwbLuie38iE+4N5"
+    access_key = "AKIAZ***"
+    secret_key = "S0l8kpZE2nbC7***"
 }
 
 ## create a instance
